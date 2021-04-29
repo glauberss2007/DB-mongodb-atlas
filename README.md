@@ -4,7 +4,7 @@
 Set up and Atlas cluster, query, create, and analyze your data with MongoDB. Learn about database performance basics, and discover how to get started with creating applications and visualizing your data.
 
 
-## INTRODUCTORYS
+## INTRODUCTORE
 ### New Features and Tools in MongoDB 3.6
 This is a continuing education course on the upcoming 3.6 release of MongoDB. In a series of what will be approximately 9 modules, we will introduce the main features of 3.6 in detail.
 
@@ -20,6 +20,7 @@ Helping users with RDBMS and SQL knowledge learn MongoDB.
 ### The MongoDB Aggregation Framework
 Fundamentals of the powerful MongoDB Aggregation Framework: data transformation, data science, reducing data over the wire, views.
 
+## INTERMEDIATE
 ### MongoDB Performance
 Learn how to optimize the performance of your MongoDB deployment. This course will cover how to use best practices for achieving performance at scale in a MongoDB system.
 
@@ -35,5 +36,6 @@ Learn everything you need to know to get started building a MongoDB-based app in
 ### MongoDB for Python Developers
 Learn everything you need to know to get started building a MongoDB-based app in Python.
 
+## ADVANCED
 ### Data Modeling
 How to model data and create schemas for MongoDB
