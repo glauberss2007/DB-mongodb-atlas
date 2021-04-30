@@ -3,6 +3,13 @@
 ## MongoDB Basics
 Set up and Atlas cluster, query, create, and analyze your data with MongoDB. Learn about database performance basics, and discover how to get started with creating applications and visualizing your data.
 
+1. What is MongoDB?
+2. Importing, Exporting, and Querying Data BSON, JSON, importing and exporting data, and Basic Queries
+3. Creating and Manipulating Documents Insert, Update, and Delete operations
+4. Advanced CRUD Operations Query operators: element operators, logical operators, array operators, and the regex operator
+5. Indexing and Aggregation Pipeline aggregation, indexes, data modeling
+6. Next Steps Atlas Data Explorer, Performance Advisor, Charts, Realm, Compass
+
 
 ## INTRODUCTORE
 ### New Features and Tools in MongoDB 3.6
