@@ -55,7 +55,11 @@ Set up and Atlas cluster, query, create, and analyze your data with MongoDB. Lea
         mongotop | tracks the amount of time a MongoDB instance spends reading and writing data
         mongotop --uri mongodb+srv://adm:<PASSWORD>@cluster0.vvo6a.mongodb.net 
   
-  - Data Explorer
+  - Data Explorer (Using GUI and CLI):
+          - Namespace: The concatenation of the database name and collection name is called a namespace.
+
+TODO: Deploy a definitive Atlas MongoDB cluster and import/export json/bson data files on it using GUI/CLI
+    
   - Find Command
   - The mongo shell
 
